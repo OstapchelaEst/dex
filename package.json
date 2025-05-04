@@ -7,9 +7,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/OstapchelaEst"
   },
-  "files": [
-    "dist/**/*"
-  ],
   "scripts": {
     "build": "vite build",
     "dev": "vite build --watch"
